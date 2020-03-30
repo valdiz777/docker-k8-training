@@ -1,3 +1,6 @@
 [submodule "complex"]
 	path = complex
 	url = https://github.com/valdiz777/multi-docker.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/valdiz777/docker-reactapp.git
