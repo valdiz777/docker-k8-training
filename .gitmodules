@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/valdiz777/docker-reactapp.git
+[submodule "simplek8s"]
+	path = simplek8s
+	url = https://github.com/valdiz777/simplek8s.git
